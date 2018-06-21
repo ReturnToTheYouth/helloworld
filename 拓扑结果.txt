@@ -1,0 +1,181 @@
+------    START    ------
+------    第一阶段开始：进行多个文件初步归并    ------
+current raw file: route-192.16.0.51
+current raw file: route-192.16.0.52
+current raw file: route-192.18.0.51
+current raw file: route-192.18.0.54
+current raw file: route-192.19.0.57-wrong
+current raw file: route-192.20.0.51
+current raw file: route-192.21.16.60
+current raw file: route-192.21.40.51
+current raw file: route-192.21.64.59
+current raw file: route-192.21.72.51
+current raw file: route-192.21.88.11
+current raw file: route-192.22.32.59
+current raw file: route-192.22.48.51
+current raw file: route-192.23.20.11
+current raw file: route-192.23.20.53
+current raw file: route-192.23.32.51
+current raw file: route-192.23.32.52
+current raw file: route-192.24.16.54
+current raw file: route-192.24.18.51
+current raw file: subnet-192.16.0.51
+current raw file: subnet-192.16.0.52
+current raw file: subnet-192.18.0.51
+current raw file: subnet-192.18.0.54
+current raw file: subnet-192.19.0.57
+current raw file: subnet-192.20.0.51
+current raw file: subnet-192.21.16.60
+current raw file: subnet-192.21.40.51
+current raw file: subnet-192.21.64.59
+current raw file: subnet-192.21.72.51
+current raw file: subnet-192.21.88.11
+current raw file: subnet-192.22.32.59
+current raw file: subnet-192.22.48.51
+current raw file: subnet-192.23.20.11
+current raw file: subnet-192.23.20.53
+current raw file: subnet-192.23.32.51
+current raw file: subnet-192.23.32.52
+current raw file: subnet-192.24.16.54
+current raw file: subnet-192.24.18.51
+current raw file: conn-192.16.0.51
+current raw file: conn-192.16.0.52
+current raw file: conn-192.18.0.51
+current raw file: conn-192.18.0.54
+current raw file: conn-192.19.0.57
+current raw file: conn-192.20.0.51
+current raw file: conn-192.21.16.60
+current raw file: conn-192.21.40.51
+current raw file: conn-192.21.64.59
+current raw file: conn-192.21.72.51
+current raw file: conn-192.21.88.11
+current raw file: conn-192.22.32.59
+current raw file: conn-192.22.48.51
+current raw file: conn-192.23.20.11
+current raw file: conn-192.23.20.53
+current raw file: conn-192.23.32.51
+current raw file: conn-192.23.32.52
+current raw file: conn-192.24.16.54
+current raw file: conn-192.24.18.51
+------    第一阶段结束：多个文件归并成功    ------
+------    第二阶段开始：获取已完成探测路由器集合    ------
+------    第二阶段结束：获取已完成探测路由器集合成功    ------
+------    第三阶段开始：获取未探测路由器集合    ------
+------    第三阶段结束：获取未探测路由器集合成功    ------
+------    第四阶段开始：初步处理子网集合    ------
+------    第四阶段结束：初步处理子网集合成功    ------
+------    第五阶段开始：得到初步拓扑二元关系    ------
+已探测到的路由连接关系:
+192.10.8.2      192.10.2.2
+192.10.8.2      192.10.3.2
+192.10.8.2      192.10.13.2
+192.10.8.2      192.10.16.2
+192.10.13.2     192.10.4.2
+192.10.13.2     192.10.12.2
+192.10.13.2     192.10.16.2
+192.10.3.2      192.10.2.2
+192.10.12.2     192.10.4.2
+192.10.1.1      192.10.4.2
+------    第五阶段结束：得到初步拓扑二元关系成功    ------
+
+初次探测结果路径: C:\Users\27574\Desktop\UESTC-MSH-0801\UESTC-MSH-0801\project\topo-disco-0801\topo-info-aggregate\topo\result
+------    START    ------
+------    第一阶段开始：进行多个文件初步归并    ------
+current raw file: route-192.16.0.51
+current raw file: route-192.16.0.52
+current raw file: route-192.18.0.51
+current raw file: route-192.18.0.54
+current raw file: route-192.19.0.57-wrong
+current raw file: route-192.20.0.51
+current raw file: route-192.21.16.60
+current raw file: route-192.21.40.51
+current raw file: route-192.21.64.59
+current raw file: route-192.21.72.51
+current raw file: route-192.21.88.11
+current raw file: route-192.22.32.59
+current raw file: route-192.22.48.51
+current raw file: route-192.23.20.11
+current raw file: route-192.23.20.53
+current raw file: route-192.23.32.51
+current raw file: route-192.23.32.52
+current raw file: route-192.24.16.54
+current raw file: route-192.24.18.51
+current raw file: subnet-192.16.0.51
+current raw file: subnet-192.16.0.52
+current raw file: subnet-192.18.0.51
+current raw file: subnet-192.18.0.54
+current raw file: subnet-192.19.0.57
+current raw file: subnet-192.20.0.51
+current raw file: subnet-192.21.16.60
+current raw file: subnet-192.21.40.51
+current raw file: subnet-192.21.64.59
+current raw file: subnet-192.21.72.51
+current raw file: subnet-192.21.88.11
+current raw file: subnet-192.22.32.59
+current raw file: subnet-192.22.48.51
+current raw file: subnet-192.23.20.11
+current raw file: subnet-192.23.20.53
+current raw file: subnet-192.23.32.51
+current raw file: subnet-192.23.32.52
+current raw file: subnet-192.24.16.54
+current raw file: subnet-192.24.18.51
+current raw file: conn-192.16.0.51
+current raw file: conn-192.16.0.52
+current raw file: conn-192.18.0.51
+current raw file: conn-192.18.0.54
+current raw file: conn-192.19.0.57
+current raw file: conn-192.20.0.51
+current raw file: conn-192.21.16.60
+current raw file: conn-192.21.40.51
+current raw file: conn-192.21.64.59
+current raw file: conn-192.21.72.51
+current raw file: conn-192.21.88.11
+current raw file: conn-192.22.32.59
+current raw file: conn-192.22.48.51
+current raw file: conn-192.23.20.11
+current raw file: conn-192.23.20.53
+current raw file: conn-192.23.32.51
+current raw file: conn-192.23.32.52
+current raw file: conn-192.24.16.54
+current raw file: conn-192.24.18.51
+------    第一阶段结束：多个文件归并成功    ------
+------    第二阶段开始：获取已完成探测路由器集合    ------
+------    第二阶段结束：获取已完成探测路由器集合成功    ------
+------    第三阶段开始：获取未探测路由器集合    ------
+------    第三阶段结束：获取未探测路由器集合成功    ------
+------    第四阶段开始：初步处理子网集合    ------
+------    第四阶段结束：初步处理子网集合成功    ------
+------    第五阶段开始：得到初步拓扑二元关系    ------
+已探测到的路由连接关系:
+192.10.8.2      192.10.2.2
+192.10.8.2      192.10.3.2
+192.10.8.2      192.10.13.2
+192.10.8.2      192.10.16.2
+192.10.13.2     192.10.4.2
+192.10.13.2     192.10.12.2
+192.10.13.2     192.10.16.2
+192.10.3.2      192.10.2.2
+192.10.12.2     192.10.4.2
+192.10.1.1      192.10.4.2
+------    第五阶段结束：得到初步拓扑二元关系成功    ------
+
+初次探测结果路径: C:\Users\27574\Desktop\UESTC-MSH-0801\UESTC-MSH-0801\project\topo-disco-0801\topo-info-aggregate\topo\result
+
+----    OVER    ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
